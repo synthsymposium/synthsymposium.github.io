@@ -1,6 +1,6 @@
 title: "Synth Symposium2"
 author: "John"
-#description: "yooooo!"
+description: "blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
